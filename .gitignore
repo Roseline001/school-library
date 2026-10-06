@@ -1,0 +1,21 @@
+# OS and editor junk
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Logs and temporary files
+*.log
+tmp/
+temp/
+
+# Dependencies and generated build output
+node_modules/
+dist/
+build/
+coverage/
+__pycache__/
+*.py[cod]
